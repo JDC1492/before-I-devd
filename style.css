@@ -1,4 +1,4 @@
 #audio-container {
   display: grid;
-  grid-template-rows: [row1-start] 13% [row2-start] 13% [row3-start] 13% [row4-start] 13% [row5-start] 13% [row6-start] 13%;
+  grid-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
