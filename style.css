@@ -1,4 +1,54 @@
 #audio-container {
   display: grid;
-  grid-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-row: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+#again-one-day {
+  outline: darkgoldenrod solid 3px;
+  grid-row-gap: 5px;
+}
+
+#age-old-tales {
+  outline: darkgoldenrod solid 3px;
+  grid-row-gap: 5px;
+}
+
+#expectations {
+  outline: darkgoldenrod solid 3px;
+  grid-row-gap: 5px;
+}
+
+#driving-blind {
+  outline: darkgoldenrod solid 3px;
+  grid-row-gap: 5px;
+}
+
+#eyes-open {
+  outline: darkgoldenrod solid 3px;
+  grid-row-gap: 5px;
+}
+
+#fight-to-get-you {
+  outline: darkgoldenrod solid 3px;
+  grid-row-gap: 5px;
+}
+
+#greyscale {
+  outline: darkgoldenrod solid 3px;
+  grid-row-gap: 5px;
+}
+
+#make-you-choose {
+  outline: darkgoldenrod solid 3px;
+  grid-row-gap: 5px;
+}
+
+#need-love {
+  outline: darkgoldenrod solid 3px;
+  grid-row-gap: 5px;
+}
+
+#miles-away {
+  outline: darkgoldenrod solid 3px;
+  grid-row-gap: 5px;
 }
