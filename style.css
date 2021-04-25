@@ -1,10 +1,11 @@
 #audio-container {
   display: grid;
-  grid-row-gap: 5px;
+  grid-row-gap: 25px;
 }
 
 #again-one-day {
   font-family: "Courier New", Courier, monospace;
+  margin: auto;
 }
 
 #age-old-tales {
@@ -43,6 +44,10 @@
   font-family: "Courier New", Courier, monospace;
 }
 
-.track {
-  justify-content: center;
+track {
+  align-content: center;
+}
+
+div h1 {
+  align-content: center;
 }
