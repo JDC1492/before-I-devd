@@ -1,54 +1,48 @@
 #audio-container {
   display: grid;
-  grid-row: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-row-gap: 5px;
 }
 
 #again-one-day {
-  outline: darkgoldenrod solid 3px;
-  grid-row-gap: 5px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 #age-old-tales {
-  outline: darkgoldenrod solid 3px;
-  grid-row-gap: 5px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 #expectations {
-  outline: darkgoldenrod solid 3px;
-  grid-row-gap: 5px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 #driving-blind {
-  outline: darkgoldenrod solid 3px;
-  grid-row-gap: 5px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 #eyes-open {
-  outline: darkgoldenrod solid 3px;
-  grid-row-gap: 5px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 #fight-to-get-you {
-  outline: darkgoldenrod solid 3px;
-  grid-row-gap: 5px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 #greyscale {
-  outline: darkgoldenrod solid 3px;
-  grid-row-gap: 5px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 #make-you-choose {
-  outline: darkgoldenrod solid 3px;
-  grid-row-gap: 5px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 #need-love {
-  outline: darkgoldenrod solid 3px;
-  grid-row-gap: 5px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 #miles-away {
-  outline: darkgoldenrod solid 3px;
-  grid-row-gap: 5px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.track {
+  justify-content: center;
 }
