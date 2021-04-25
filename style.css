@@ -1,53 +1,63 @@
 #audio-container {
   display: grid;
   grid-row-gap: 25px;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 #again-one-day {
   font-family: "Courier New", Courier, monospace;
-  margin: auto;
+  width: 575px;
 }
 
 #age-old-tales {
   font-family: "Courier New", Courier, monospace;
+  width: 575px;
 }
 
 #expectations {
   font-family: "Courier New", Courier, monospace;
+  width: 575px;
 }
 
 #driving-blind {
   font-family: "Courier New", Courier, monospace;
+  width: 575px;
 }
 
 #eyes-open {
   font-family: "Courier New", Courier, monospace;
+  width: 575px;
 }
 
 #fight-to-get-you {
   font-family: "Courier New", Courier, monospace;
+  width: 575px;
 }
 
 #greyscale {
   font-family: "Courier New", Courier, monospace;
+  width: 575px;
 }
 
 #make-you-choose {
   font-family: "Courier New", Courier, monospace;
+  width: 575px;
 }
 
 #need-love {
   font-family: "Courier New", Courier, monospace;
+  width: 575px;
 }
 
 #miles-away {
   font-family: "Courier New", Courier, monospace;
+  width: 575px;
 }
 
-track {
+/* track {
   align-content: center;
-}
+} */
 
-div h1 {
-  align-content: center;
+div div h1 {
+  text-align: center;
 }
