@@ -1,3 +1,8 @@
+#title-section {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
 #audio-container {
   display: grid;
   grid-row-gap: 25px;
