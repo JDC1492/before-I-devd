@@ -5,99 +5,67 @@
 
 #audio-container {
   display: grid;
-  grid-row-gap: 25px;
+  grid-row-gap: 20px;
   grid-template-columns: 1fr 1fr 1fr;
-  justify-content: center;
-  align-items: center;
 }
 
 #again-one-day {
-  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+  font-family: "Archivo Black", "Archivo", sans-serif;
   width: 575px;
-  /* --borderWidth: 3px;
-  background: #324e5c;
-  position: relative;
-  border-radius: var(--borderWidth); */
 }
-
-/* #again-one-day:after {
-  content: "";
-  position: absolute;
-  top: calc(-1 * var(--borderWidth));
-  left: calc(-1 * var(--borderWidth));
-  height: calc(100% + var(--borderWidth) * 2);
-  width: calc(100% + var(--borderWidth) * 2);
-  background: linear-gradient(
-    60deg,
-    #f79533,
-    #f37055,
-    #ef4e7b,
-    #a166ab,
-    #5073b8,
-    #1098ad,
-    #07b39b,
-    #6fba82
-  );
-  border-radius: calc(2 * var(--borderWidth));
-  z-index: -1;
-  animation: animatedgradient 7s ease alternate infinite;
-  background-size: 300% 300%;
-}
-
-@keyframes animatedgradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  } */
-/* } */
 
 #age-old-tales {
-  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+  font-family: "Archivo Black", "Archivo", sans-serif;
   width: 575px;
 }
 
 #expectations {
-  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+  font-family: "Archivo Black", "Archivo", sans-serif;
   width: 575px;
 }
 
 #driving-blind {
-  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+  font-family: "Archivo Black", "Archivo", sans-serif;
   width: 575px;
 }
 
 #eyes-open {
-  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+  font-family: "Archivo Black", "Archivo", sans-serif;
   width: 575px;
 }
 
 #fight-to-get-you {
-  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+  font-family: "Archivo Black", "Archivo", sans-serif;
   width: 575px;
 }
 
 #greyscale {
-  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+  font-family: "Archivo Black", "Archivo", sans-serif;
   width: 575px;
 }
 
 #make-you-choose {
-  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+  font-family: "Archivo Black", "Archivo", sans-serif;
   width: 575px;
 }
 
 #need-love {
-  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+  font-family: "Archivo Black", "Archivo", sans-serif;
   width: 575px;
 }
 
 #miles-away {
-  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+  font-family: "Archivo Black", "Archivo", sans-serif;
   width: 575px;
 }
 
@@ -108,3 +76,5 @@ audio {
 div div h1 {
   text-align: center;
 }
+
+/* looking to try a different Idea. I like the idea of a cool card of some type. possible hover effects over individual div */
