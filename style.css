@@ -7,6 +7,8 @@
   display: grid;
   grid-row-gap: 25px;
   grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  align-items: center;
 }
 
 #again-one-day {
@@ -99,9 +101,9 @@
   width: 575px;
 }
 
-/* track {
-  align-content: center;
-} */
+audio {
+  margin-left: 25%;
+}
 
 div div h1 {
   text-align: center;
