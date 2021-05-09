@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 #title-section {
   margin-left: 25%;
   margin-right: 25%;
@@ -5,65 +9,11 @@
 
 #audio-container {
   display: grid;
-  grid-row-gap: 20px;
+  grid-row-gap: 25px;
   grid-template-columns: 1fr 1fr 1fr;
 }
 
-#again-one-day {
-  font-size: 10px;
-  font-family: "Archivo Black", "Archivo", sans-serif;
-  width: 575px;
-}
-
-#age-old-tales {
-  font-size: 10px;
-  font-family: "Archivo Black", "Archivo", sans-serif;
-  width: 575px;
-}
-
-#expectations {
-  font-size: 10px;
-  font-family: "Archivo Black", "Archivo", sans-serif;
-  width: 575px;
-}
-
-#driving-blind {
-  font-size: 10px;
-  font-family: "Archivo Black", "Archivo", sans-serif;
-  width: 575px;
-}
-
-#eyes-open {
-  font-size: 10px;
-  font-family: "Archivo Black", "Archivo", sans-serif;
-  width: 575px;
-}
-
-#fight-to-get-you {
-  font-size: 10px;
-  font-family: "Archivo Black", "Archivo", sans-serif;
-  width: 575px;
-}
-
-#greyscale {
-  font-size: 10px;
-  font-family: "Archivo Black", "Archivo", sans-serif;
-  width: 575px;
-}
-
-#make-you-choose {
-  font-size: 10px;
-  font-family: "Archivo Black", "Archivo", sans-serif;
-  width: 575px;
-}
-
-#need-love {
-  font-size: 10px;
-  font-family: "Archivo Black", "Archivo", sans-serif;
-  width: 575px;
-}
-
-#miles-away {
+.song-div {
   font-size: 10px;
   font-family: "Archivo Black", "Archivo", sans-serif;
   width: 575px;
