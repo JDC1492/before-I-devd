@@ -15,8 +15,8 @@
 
 .song-div {
   background-image: url("images/backgrounds/478155-abstract-digital_art-depth_of_field-hexagon.jpeg");
-  background-size: ;
-  background-color: darkgoldenrod;
+  background-size: 100vh;
+  background-color: darkseagreen;
   background-blend-mode: luminosity;
 }
 
