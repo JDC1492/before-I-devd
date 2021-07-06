@@ -15,10 +15,10 @@
 
 @keyframes change {
   0% {
-    background-color: darkseagreen;
+    background-color: rgb(149, 247, 146);
   }
   100% {
-    background-color: blueviolet;
+    background-color: rgba(8, 99, 26, 0.687);
   }
 }
 
@@ -44,3 +44,5 @@ div div h1 {
 }
 
 /* looking to try a different Idea. I like the idea of a cool card of some type. possible hover effects over individual div */
+
+/* also looking to utilize the individual hover to "turn on" the animation. They shouldn't happen simultaneously but individually. */
