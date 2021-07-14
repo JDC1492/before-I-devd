@@ -13,14 +13,14 @@
   grid-template-columns: 2fr 2fr 2fr;
 }
 
-@keyframes change {
+/* @keyframes change {
   0% {
     background-color: rgb(149, 247, 146);
   }
   100% {
     background-color: rgba(8, 99, 26, 0.687);
   }
-}
+} */
 
 .song-div {
   color: whitesmoke;
@@ -28,7 +28,13 @@
   background-size: 100vh;
   background-color: darkseagreen;
   background-blend-mode: luminosity;
-  animation: change 5s infinite;
+  /* animation: change 5s infinite; */
+}
+
+.gif-ani {
+  display: block;
+  margin: 0 auto;
+  background-color: indianred;
 }
 
 #miles-away {
