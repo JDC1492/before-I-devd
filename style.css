@@ -31,11 +31,13 @@
   /* animation: change 5s infinite; */
 }
 
-.gif-ani {
+/* .gif-ani {
   display: block;
   margin: 0 auto;
-  background-color: indianred;
-}
+  /background-color: indianred;
+  opacity: 0.2; 
+  background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+} */
 
 #miles-away {
   align-content: center;
