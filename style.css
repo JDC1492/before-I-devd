@@ -60,3 +60,7 @@ div div h1 {
 /* looking to try a different Idea. I like the idea of a cool card of some type. possible hover effects over individual div */
 
 /* also looking to utilize the individual hover to "turn on" the animation. They shouldn't happen simultaneously but individually. */
+
+h1 {
+  text-align: center;
+}
