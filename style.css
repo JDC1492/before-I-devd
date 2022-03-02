@@ -7,6 +7,15 @@
   margin-right: 25%;
 }
 
+body {
+  font-family: inconsolata;
+  color: whitesmoke;
+  background-image: url("images/backgrounds/478155-abstract-digital_art-depth_of_field-hexagon.jpeg");
+  background-size: 100%;
+  background-color: rgb(182, 141, 52);
+  background-blend-mode: luminosity;
+}
+
 #audio-container {
   display: grid;
   grid-gap: 25px;
@@ -25,7 +34,7 @@
 .song-div {
   color: whitesmoke;
   background-image: url("images/backgrounds/478155-abstract-digital_art-depth_of_field-hexagon.jpeg");
-  background-size: 100vh;
+  background-size: 100;
   background-color: steelblue;
   background-blend-mode: luminosity;
   /* animation: change 5s infinite; */
